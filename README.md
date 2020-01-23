@@ -20,7 +20,7 @@ There should be a environment as the background of the city, and a point as the 
 
 # What more could show in the program
 
-For now, there is no real user interface in this program, and there should be one. And a console that can control variables would made this program more useful.
+For now, there is no real user interface in this program, and there should be one. And a console that can control variables would made this program more useful. I tried to do so, but it is kind of out my range.
 
 # The licence
 
