@@ -22,7 +22,7 @@ There should be a environment as the background of the city, and a point as the 
 
 For now, there is no real user interface in this program, and there should be one. A console that can control variables would made this program more useful. I tried to do so, but it is kind of out my range for now.
 
-# Difficulty
+# The difficulty
 
 The calculating of the path of the becteria is the hard part of this program. I spend half a day to made it right. And there are mach more difficulty I can not remember, programming is a real time killer. I watched a lot of video about the way of thinking in Python. It is different from my other work, but I was enjoy it. Programming really expand my horizon.
 
