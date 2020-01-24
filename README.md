@@ -16,11 +16,11 @@ Press the Run file(F5) in final.py, there will be a density map in Spyder. It is
 
 # What should show in the program
 
-There should be a environment as the background of the city, and a point as the bombing point. The map in the Spyder should show the possiable infected area.
+There should be a environment as the background of the city, and a point as the bombing point. The map in the Spyder should show the possiable infected area by points.
 
 # What more could show in the program
 
-For now, there is no real user interface in this program, and there should be one. And a console that can control variables would made this program more useful. I tried to do so, but it is kind of out my range.
+For now, there is no real user interface in this program, and there should be one. A console that can control variables would made this program more useful. I tried to do so, but it is kind of out my range for now.
 
 # The licence
 
